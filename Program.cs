@@ -24,4 +24,7 @@
 
 
 // Console.WriteLine(VentanaDeslizante.LongestSubStringWithoutRepeat("abcabcbb"));
-Console.WriteLine(VentanaDeslizante.LongestSubStringWithoutRepeat("jdkafnlcdsalkxcmpoiuytfccv"));
+// Console.WriteLine(VentanaDeslizante.LongestSubStringWithoutRepeat("jdkafnlcdsalkxcmpoiuytfccv"));
+
+Console.WriteLine(BinarySearch.Search(new int[] { 4, 5, 6, 7, 0, 1, 2 }, 0));
+Console.WriteLine(BinarySearch.Search(new int[] { 4, 5, 6, 7, 0, 1, 2 }, 3));
