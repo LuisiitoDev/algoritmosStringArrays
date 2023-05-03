@@ -15,9 +15,13 @@
 // }
 
 
-Console.WriteLine(Algorithms.EsPalindromoValido("aba"));
-Console.WriteLine(Algorithms.EsPalindromoValido("abca"));
-Console.WriteLine(Algorithms.EsPalindromoValido("ana"));
-Console.WriteLine(Algorithms.EsPalindromoValido("radar"));
-Console.WriteLine(Algorithms.EsPalindromoValido("somos"));
-Console.WriteLine(Algorithms.EsPalindromoValido("luis"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("aba"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("abca"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("ana"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("radar"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("somos"));
+// Console.WriteLine(Algorithms.EsPalindromoValido("luis"));
+
+
+// Console.WriteLine(VentanaDeslizante.LongestSubStringWithoutRepeat("abcabcbb"));
+Console.WriteLine(VentanaDeslizante.LongestSubStringWithoutRepeat("jdkafnlcdsalkxcmpoiuytfccv"));
